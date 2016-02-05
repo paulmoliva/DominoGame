@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>test.png</file>
+        <file>wood.jpg</file>
+        <file>1.png</file>
+        <file>2.png</file>
+        <file>3.png</file>
+        <file>4.png</file>
+        <file>5.png</file>
+        <file>6.png</file>
+        <file>huh.png</file>
+        <file>robotCav.png</file>
+    </qresource>
+    <qresource prefix="/sound">
+        <file>domino.wav</file>
+    </qresource>
+</RCC>
